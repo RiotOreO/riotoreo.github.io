@@ -258,6 +258,7 @@ h1:hover {
 
 .image:hover .hover {
     opacity: 1;
+    transform: scale(3);
 }
 
 .hover .active {
@@ -275,7 +276,6 @@ h1:hover {
 
 .sub-name {
     color: #fff;
-    font-family: 'Titillium Web', sans-serif;
     font-size: 1.2rem;
     opacity: .8;
     transition: .3s;
